@@ -1,0 +1,6 @@
+{
+  "name": "CODEPROOF AI",
+  "description": "AI-powered coding assistant for beginners and college students. Describe, code, execute, debug, and learn Python and C++ with step-by-step guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
